@@ -212,6 +212,8 @@ LANG_MAP = {
     "la": "latin", "lat": "latin", "latin": "latin",
     # Мусор который модели возвращают на плохом тексте
     "zxx": "unknown", "zxx_zzzz": "unknown", "bn": "unknown",
+    # Неопределенный язык
+    "und_cyrl": "unknown", "und": "unknown",
 }
 
 
